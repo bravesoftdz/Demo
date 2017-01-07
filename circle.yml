@@ -12,4 +12,4 @@ dependencies:
 
 test:
   override:
-    - ./docker-build-examples.sh
+    - ./docker-build-demo.sh
