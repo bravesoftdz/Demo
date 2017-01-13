@@ -1,9 +1,11 @@
+# Branch circleci [![CircleCI](https://circleci.com/gh/markfirmware/Demo.svg?style=svg)](https://circleci.com/gh/markfirmware/Demo)
+
 Ultibo demo project
 
 This is a self running demonstration of some of the features of Ultibo core.
 
 The demo image can be downloaded from the releases page on GitHub or follow
-the link from the download page on the Ultibo website. If you don’t have a
+the link from the download page on the Ultibo website. If you donâ€™t have a
 Raspberry Pi a video of the demo is available on YouTube at https://youtu.be/GF9Xbf3mbf4
 
 To run the demo simply copy the files KERNEL.IMG and KERNEL7.IMG to an SD card
