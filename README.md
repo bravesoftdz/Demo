@@ -1,4 +1,4 @@
-# Branch circleci [![CircleCI](https://circleci.com/gh/markfirmware/Demo.svg?style=svg)](https://circleci.com/gh/markfirmware/Demo)
+# Branch circleci [![CircleCI](https://circleci.com/gh/markfirmware/Demo/tree/circleci.svg?style=svg)](https://circleci.com/gh/markfirmware/Demo/tree/circleci)
 
 Ultibo demo project
 
